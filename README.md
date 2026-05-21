@@ -6,7 +6,7 @@ Uses Machine Learning (Random Forest, Logistic Regression, K-Means) to detect at
 
 ---
 
-## Interact with model : https://bda6-student-analytics-ews.streamlit.app
+ Interact with model : https://bda6-student-analytics-ews.streamlit.app
 
 ##  Project Structure
 
