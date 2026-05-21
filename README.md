@@ -1,4 +1,4 @@
-# 🎓 EduAnalytics AI
+#  EduAnalytics AI
 ## AI-Driven Learning Analytics & Early Warning System
 
 A full-stack Streamlit application with role-based access for Admin, Faculty, and Students.
@@ -6,7 +6,9 @@ Uses Machine Learning (Random Forest, Logistic Regression, K-Means) to detect at
 
 ---
 
-## 📁 Project Structure
+## Interact with model : https://bda6-student-analytics-ews.streamlit.app
+
+##  Project Structure
 
 ```
 eduanalytics/
@@ -22,7 +24,7 @@ eduanalytics/
 
 ---
 
-## 🚀 Setup & Run
+##  Setup & Run
 
 ### 1. Install dependencies
 ```bash
@@ -38,7 +40,7 @@ The app auto-generates 50 student records on first run.
 
 ---
 
-## 🔑 Demo Login Credentials
+##  Demo Login Credentials
 
 | Role    | ID           | Password |
 |---------|--------------|----------|
@@ -49,7 +51,7 @@ The app auto-generates 50 student records on first run.
 
 ---
 
-## 🧩 Modules
+##  Modules
 
 | Module | Description |
 |--------|-------------|
@@ -59,7 +61,7 @@ The app auto-generates 50 student records on first run.
 
 ---
 
-## 🤖 ML Pipeline
+##  ML Pipeline
 
 - **Random Forest** — Primary risk classifier
 - **Logistic Regression** — Secondary classifier for comparison
@@ -69,7 +71,7 @@ The app auto-generates 50 student records on first run.
 
 ---
 
-## 📊 Charts & Visualizations (Plotly)
+##  Charts & Visualizations (Plotly)
 
 - Risk distribution (donut chart)
 - Score distribution (histogram)
